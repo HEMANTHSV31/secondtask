@@ -11,7 +11,7 @@ function Login() {
             alert("enter valid username and password")
         }
         else{ toggle();
-            navigate('/datas');}
+            navigate('/secondtask/datas');}
        
     }
     return (
